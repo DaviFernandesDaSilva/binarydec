@@ -6,7 +6,7 @@ export default function Home() {
     
     <main>
       <div data-aos="fade-left aos-animate" data-aos-anchor-placement="center-center">
-          <h1 className='text-4xl'>Binary to Decimal</h1>
+          <h1 className='text-4xl'>Binary to Decimal </h1>
         </div>
     </main>
   )
